@@ -2,10 +2,10 @@ cask "floatyclipshot" do
   version "1.0.0"
   sha256 "100c4a20d08f4c72217724605a1c9ef53d2b09da74555cff501034701311e671"
 
-  url "https://github.com/hooshyar/floatyclipshot/releases/download/v#{version}/floatyclipshot-#{version}.zip"
+  url "https://github.com/dev-datacode/floatyclipshot/releases/download/v#{version}/floatyclipshot-#{version}.zip"
   name "FloatyClipshot"
   desc "Floating button screenshot utility for macOS developers"
-  homepage "https://github.com/hooshyar/floatyclipshot"
+  homepage "https://github.com/dev-datacode/floatyclipshot"
 
   depends_on macos: ">= :big_sur"
 
