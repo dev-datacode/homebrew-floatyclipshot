@@ -1,6 +1,6 @@
 cask "floatyclipshot" do
   version "1.0.0"
-  sha256 "REPLACE_WITH_ACTUAL_SHA256_FROM_RELEASE"
+  sha256 "100c4a20d08f4c72217724605a1c9ef53d2b09da74555cff501034701311e671"
 
   url "https://github.com/hooshyar/floatyclipshot/releases/download/v#{version}/floatyclipshot-#{version}.zip"
   name "FloatyClipshot"
